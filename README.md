@@ -1,6 +1,6 @@
 ## Crypto currency price tracking app
 
-![Deployed URL](https://coin-gecko-tracker.vercel.app/)
+[Deployed URL](https://coin-gecko-tracker.vercel.app/)
 
 - Reusable components made using presenter container pattern
 - Custom hooks implemented
